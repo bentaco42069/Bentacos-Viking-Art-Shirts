@@ -13,14 +13,14 @@ Browse the designs below, then <b>message me right here on GitHub to order.</b>
 <h2 align="center">🛒 Order a Shirt</h2>
 
 <p align="center">
-  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?title=Shirt%20Order&labels=order&body=Design%20number%3A%0ASize%3A%0AColor%3A%0ACustomization%20if%20any%3A%0AHow%20to%20reach%20you%3A">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?title=Shirt%20Order&labels=order&body=Order%20as%20many%20shirts%20as%20you%20want%20in%20this%20ONE%20message%20%E2%80%94%20just%20copy%20a%20SHIRT%20block%20for%20each%20extra%20shirt.%0A%0A---%20SHIRT%201%20---%0ADesign%20%23%3A%20%0AMale%20or%20Female%3A%20%0AStyle%20%E2%80%94%20T-shirt%2C%20Tank%20top%2C%20or%20Crop%20top%20%28crop%20top%20is%20female%20only%29%3A%20%0ASize%3A%20%0AColor%3A%20%0ACustomization%20%28a%20name%2C%20phrase%2C%20or%20image%20%E2%80%94%20optional%29%3A%20%0A%0A---%20SHIRT%202%20---%0ADesign%20%23%3A%20%0AMale%20or%20Female%3A%20%0AStyle%20%E2%80%94%20T-shirt%2C%20Tank%20top%2C%20or%20Crop%20top%20%28crop%20top%20is%20female%20only%29%3A%20%0ASize%3A%20%0AColor%3A%20%0ACustomization%3A%20%0A%0A%28need%20more%20shirts%3F%20paste%20another%20SHIRT%20block%20just%20like%20above%29%0A%0ABest%20way%20to%20reach%20you%20so%20I%20can%20send%20your%20total%20and%20set%20up%20pickup%20or%20shipping%20%28phone%2C%20email%2C%20or%20Instagram%29%3A%20">
   <b>📩 &nbsp; CLICK HERE TO ORDER &nbsp; →</b>
   </a>
 </p>
 
-<p align="center"><sub>Opens a quick order form. You'll need a free GitHub account to send it.</sub></p>
+<p align="center"><sub>Opens a quick order form. Ordering more than one shirt? List them all in the same form — no need to send a separate message for each. You'll need a free GitHub account to send it.</sub></p>
 
-When you order, just tell me: **the design # · your size · shirt color · any customization.** I'll get the message and reply right here.
+When you order, list **each shirt: design # · male or female · style (T-shirt, tank top, or crop top) · size · color · any customization** — as many shirts as you want in one message — plus **the best way to reach you.** I'll reply right here.
 
 ---
 
