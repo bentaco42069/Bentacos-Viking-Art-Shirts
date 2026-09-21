@@ -6,8 +6,8 @@ body:
     attributes:
       value: |
         ## ⚔️ Order Your Shirt(s) ⚔️
-        Just tap the menus below — no typing except your name, contact & payment handle (and address only if you want it shipped).
-        Ordering more than one? Fill in Shirt 2 and Shirt 3 too.
+        Just tap the menus below — only Shirt 1 is required. Ordering more? Fill in as many of Shirts 2–10 as you need and leave the rest blank.
+        The only typing is your name, contact & payment handle (and address only if you want it shipped).
   - type: markdown
     attributes:
       value: "### 👕 Shirt 1"
@@ -446,6 +446,1035 @@ body:
       required: false
   - type: markdown
     attributes:
+      value: "### 👕 Shirt 4 (optional)"
+  - type: dropdown
+    id: design-4
+    attributes:
+      label: "Shirt 4 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-4
+    attributes:
+      label: "Shirt 4 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-4
+    attributes:
+      label: "Shirt 4 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-4
+    attributes:
+      label: "Shirt 4 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-4
+    attributes:
+      label: "Shirt 4 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-4
+    attributes:
+      label: "Shirt 4 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "### 👕 Shirt 5 (optional)"
+  - type: dropdown
+    id: design-5
+    attributes:
+      label: "Shirt 5 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-5
+    attributes:
+      label: "Shirt 5 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-5
+    attributes:
+      label: "Shirt 5 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-5
+    attributes:
+      label: "Shirt 5 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-5
+    attributes:
+      label: "Shirt 5 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-5
+    attributes:
+      label: "Shirt 5 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "### 👕 Shirt 6 (optional)"
+  - type: dropdown
+    id: design-6
+    attributes:
+      label: "Shirt 6 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-6
+    attributes:
+      label: "Shirt 6 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-6
+    attributes:
+      label: "Shirt 6 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-6
+    attributes:
+      label: "Shirt 6 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-6
+    attributes:
+      label: "Shirt 6 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-6
+    attributes:
+      label: "Shirt 6 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "### 👕 Shirt 7 (optional)"
+  - type: dropdown
+    id: design-7
+    attributes:
+      label: "Shirt 7 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-7
+    attributes:
+      label: "Shirt 7 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-7
+    attributes:
+      label: "Shirt 7 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-7
+    attributes:
+      label: "Shirt 7 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-7
+    attributes:
+      label: "Shirt 7 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-7
+    attributes:
+      label: "Shirt 7 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "### 👕 Shirt 8 (optional)"
+  - type: dropdown
+    id: design-8
+    attributes:
+      label: "Shirt 8 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-8
+    attributes:
+      label: "Shirt 8 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-8
+    attributes:
+      label: "Shirt 8 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-8
+    attributes:
+      label: "Shirt 8 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-8
+    attributes:
+      label: "Shirt 8 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-8
+    attributes:
+      label: "Shirt 8 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "### 👕 Shirt 9 (optional)"
+  - type: dropdown
+    id: design-9
+    attributes:
+      label: "Shirt 9 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-9
+    attributes:
+      label: "Shirt 9 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-9
+    attributes:
+      label: "Shirt 9 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-9
+    attributes:
+      label: "Shirt 9 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-9
+    attributes:
+      label: "Shirt 9 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-9
+    attributes:
+      label: "Shirt 9 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "### 👕 Shirt 10 (optional)"
+  - type: dropdown
+    id: design-10
+    attributes:
+      label: "Shirt 10 — Design #"
+      description: "Pick the number from the gallery"
+      options:
+        - "— none —"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+        - "35"
+        - "36"
+        - "37"
+        - "38"
+        - "39"
+        - "40"
+        - "41"
+        - "42"
+        - "43"
+        - "44"
+        - "45"
+        - "46"
+        - "47"
+        - "48"
+        - "49"
+        - "50"
+        - "51"
+        - "52"
+        - "53"
+        - "54"
+        - "55"
+        - "56"
+        - "57"
+        - "58"
+        - "59"
+        - "60"
+        - "61"
+        - "62"
+        - "63"
+        - "64"
+        - "65"
+        - "66"
+        - "67"
+        - "68"
+        - "69"
+        - "70"
+        - "71"
+        - "72"
+        - "73"
+        - "74"
+    validations:
+      required: false
+  - type: dropdown
+    id: fit-10
+    attributes:
+      label: "Shirt 10 — Who's it for?"
+      options:
+        - "— none —"
+        - "Men"
+        - "Women"
+        - "Boys"
+        - "Girls"
+    validations:
+      required: false
+  - type: dropdown
+    id: style-10
+    attributes:
+      label: "Shirt 10 — Style"
+      options:
+        - "— none —"
+        - "T-shirt"
+        - "Tank top"
+        - "Crop top (women / girls)"
+    validations:
+      required: false
+  - type: dropdown
+    id: size-10
+    attributes:
+      label: "Shirt 10 — Size"
+      options:
+        - "— none —"
+        - "Adult S"
+        - "Adult M"
+        - "Adult L"
+        - "Adult XL"
+        - "Adult 2XL"
+        - "Adult 3XL"
+        - "Kids (put age in the box below)"
+    validations:
+      required: false
+  - type: input
+    id: kids-age-10
+    attributes:
+      label: "Shirt 10 — Kids age (only if it's a kids shirt)"
+      placeholder: "e.g. age 8"
+  - type: dropdown
+    id: color-10
+    attributes:
+      label: "Shirt 10 — Color"
+      options:
+        - "— none —"
+        - "Black"
+        - "White"
+        - "Gray"
+        - "Navy"
+        - "Red"
+        - "Royal Blue"
+        - "Green"
+        - "Pink"
+        - "Purple"
+        - "Other (write it in Notes at the bottom)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
       value: "### 📦 Delivery"
   - type: dropdown
     id: delivery
@@ -500,4 +1529,4 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: "Anything else? (a 4th shirt, custom name/text, color notes, etc.)"
+      label: "Anything else? (custom name/text, color notes, etc.)"
