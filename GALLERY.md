@@ -43,6 +43,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #10 — Loki the Shapeshifter
 <img src="images/gallery-10.jpg" width="100%">
 
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
+
 ### #11 — Return with the Plunder
 <img src="images/gallery-11.jpg" width="100%">
 
@@ -73,6 +79,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #20 — The Birth of Mjölnir
 <img src="images/gallery-20.jpg" width="100%">
 
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
+
 ### #21 — The Fire Wolf
 <img src="images/gallery-21.jpg" width="100%">
 
@@ -102,6 +114,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #30 — The Golden Library
 <img src="images/gallery-30.jpg" width="100%">
+
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
 
 ### #31 — The Forgemaster
 <img src="images/gallery-31.jpg" width="100%">
@@ -139,6 +157,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #40 — The Rune Master
 <img src="images/gallery-40.jpg" width="100%">
 
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
+
 ### #41 — Runes of Fate
 <img src="images/gallery-41.jpg" width="100%">
 
@@ -168,6 +192,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #50 — Throne of the Jarl
 <img src="images/gallery-50.jpg" width="100%">
+
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
 
 ### #51 — Neon Valhalla
 <img src="images/gallery-51.jpg" width="100%">
@@ -199,6 +229,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #60 — The Three Völvas
 <img src="images/gallery-60.jpg" width="100%">
 
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
+
 ### #61 — The Seer's Vision
 <img src="images/gallery-61.jpg" width="100%">
 
@@ -228,6 +264,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #70 — Viking Rage
 <img src="images/gallery-70.jpg" width="100%">
+
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
 
 ### #71 — The Völva's Wisdom
 <img src="images/gallery-71.jpg" width="100%">
