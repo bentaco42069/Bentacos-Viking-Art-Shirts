@@ -4,6 +4,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 **[← Back to the front page &amp; prices](README.md)**
 
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
+
 
 ---
 
@@ -118,6 +124,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #37 — The RAGNARÖK Festival
 <img src="images/gallery-37.jpg" width="100%">
 
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
+
 ### #38 — The Nine Realms
 <img src="images/gallery-38.jpg" width="100%">
 
@@ -228,6 +240,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #74 — The Monastery Raid
 <img src="images/gallery-74.jpg" width="100%">
+
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
 
 
 ---
