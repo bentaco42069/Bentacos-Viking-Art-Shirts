@@ -78,6 +78,14 @@ Add your name, a phrase, or an image — done in Canva, one of a kind:
 
 Shirts come in your choice of color — just tell me which one when you order.
 
+<h2 align="center">🛒 Ready to Order?</h2>
+
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; CLICK HERE TO ORDER &nbsp; →</b>
+  </a>
+</p>
+
 ---
 
 <p align="center"><sub>
