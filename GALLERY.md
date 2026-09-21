@@ -6,19 +6,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -64,19 +57,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -120,19 +106,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -176,19 +155,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -232,19 +204,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -288,19 +253,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -344,19 +302,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -400,19 +351,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -438,19 +382,12 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 <h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
 
-| Size | Price |
-|:--|:--:|
-| Kids (by age) | **$18** |
-| Adult S-XL | **$20** |
-| Adult 2XL | **$23** |
-| Adult 3XL+ | **$25** |
-
-| Customization | Add-on |
-|:--|:--:|
-| Small text (a name / word) | **+$3** |
-| Medium text (a line / phrase) | **+$5** |
-| Large text **or** an image | **+$7** |
-| Text **and** an image | **+$10** |
+<table align="center">
+<tr>
+<td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+<td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+</tr>
+</table>
 
 **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 

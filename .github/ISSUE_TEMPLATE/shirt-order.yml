@@ -8,23 +8,12 @@ body:
         ## Prices, Sizes & Colors
         Everything you need before you order - right here.
 
-        **Prices**
-
-        | Size | Price |
-        |:--|:--:|
-        | Kids (by age) | **$18** |
-        | Adult S-XL | **$20** |
-        | Adult 2XL | **$23** |
-        | Adult 3XL+ | **$25** |
-
-        **Want it customized?** Add your name, a phrase, or an image - done in Canva, one of a kind:
-
-        | Customization | Add-on |
-        |:--|:--:|
-        | Small text (a name / word) | **+$3** |
-        | Medium text (a line / phrase) | **+$5** |
-        | Large text **or** an image | **+$7** |
-        | Text **and** an image | **+$10** |
+        <table>
+        <tr>
+        <td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+        <td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+        </tr>
+        </table>
 
         **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
@@ -1652,23 +1641,12 @@ body:
         ## Prices, Sizes & Colors
         One more look before you send it:
 
-        **Prices**
-
-        | Size | Price |
-        |:--|:--:|
-        | Kids (by age) | **$18** |
-        | Adult S-XL | **$20** |
-        | Adult 2XL | **$23** |
-        | Adult 3XL+ | **$25** |
-
-        **Customization**
-
-        | Customization | Add-on |
-        |:--|:--:|
-        | Small text (a name / word) | **+$3** |
-        | Medium text (a line / phrase) | **+$5** |
-        | Large text **or** an image | **+$7** |
-        | Text **and** an image | **+$10** |
+        <table>
+        <tr>
+        <td valign="top"><b>Shirt price</b><br>Kids (by age): <b>$18</b><br>Adult S-XL: <b>$20</b><br>Adult 2XL: <b>$23</b><br>Adult 3XL+: <b>$25</b></td>
+        <td valign="top"><b>Customizing (add-on)</b><br>Small text (name/word): <b>+$3</b><br>Medium (a phrase): <b>+$5</b><br>Large text or image: <b>+$7</b><br>Text and an image: <b>+$10</b></td>
+        </tr>
+        </table>
 
         **Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
 
