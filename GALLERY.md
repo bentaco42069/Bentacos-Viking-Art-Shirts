@@ -4,6 +4,31 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 **[← Back to the front page &amp; prices](README.md)**
 
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
+
+<p align="center">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
+  </a>
+</p>
 
 ---
 
@@ -36,6 +61,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #10 — Loki the Shapeshifter
 <img src="images/gallery-10.jpg" width="100%">
+
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
 
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
@@ -73,6 +118,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #20 — The Birth of Mjölnir
 <img src="images/gallery-20.jpg" width="100%">
 
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
+
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
   <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
@@ -108,6 +173,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #30 — The Golden Library
 <img src="images/gallery-30.jpg" width="100%">
+
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
 
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
@@ -145,6 +230,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #40 — The Rune Master
 <img src="images/gallery-40.jpg" width="100%">
 
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
+
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
   <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
@@ -180,6 +285,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #50 — Throne of the Jarl
 <img src="images/gallery-50.jpg" width="100%">
+
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
 
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
@@ -217,6 +342,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #60 — The Three Völvas
 <img src="images/gallery-60.jpg" width="100%">
 
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
+
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
   <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
@@ -253,6 +398,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #70 — Viking Rage
 <img src="images/gallery-70.jpg" width="100%">
 
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
+
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
   <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
@@ -270,6 +435,26 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ### #74 — The Monastery Raid
 <img src="images/gallery-74.jpg" width="100%">
+
+<h3 align="center">💲 Prices, Sizes &amp; Colors</h3>
+
+| Size | Price |
+|:--|:--:|
+| Kids (by age) | **$18** |
+| Adult S-XL | **$20** |
+| Adult 2XL | **$23** |
+| Adult 3XL+ | **$25** |
+
+| Customization | Add-on |
+|:--|:--:|
+| Small text (a name / word) | **+$3** |
+| Medium text (a line / phrase) | **+$5** |
+| Large text **or** an image | **+$7** |
+| Text **and** an image | **+$10** |
+
+**Sizes** - Adult: S, M, L, XL, 2XL, 3XL.  Kids: by age, 2 through 14.
+
+**Colors** - Black, White, Gray, Navy, Red, Royal Blue, Green, Pink, Purple (or ask for another).
 
 <p align="center">
   <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
