@@ -4,12 +4,6 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 **[← Back to the front page &amp; prices](README.md)**
 
-<p align="center">
-  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
-  <b>📩 &nbsp; ORDER HERE &nbsp; →</b>
-  </a>
-</p>
-
 
 ---
 
