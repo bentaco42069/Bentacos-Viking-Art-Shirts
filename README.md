@@ -13,14 +13,14 @@ Browse the designs below, then <b>message me right here on GitHub to order.</b>
 <h2 align="center">🛒 Order a Shirt</h2>
 
 <p align="center">
-  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?title=Shirt%20Order&body=%3D%3D%3D%20SHIRT%20ORDER%20%3D%3D%3D%0A%28Copy%20the%20SHIRT%20block%20for%20each%20extra%20shirt.%29%0A%0ASHIRT%201%0ADesign%20%23%20%281-74%29%3A%20%0AMen%20%2F%20Women%20%2F%20Boys%20%2F%20Girls%3A%20%0AStyle%20%28T-shirt%20%2F%20Tank%20top%20%2F%20Crop%20top%29%3A%20%0ASize%20%28Adult%20S%2FM%2FL%2FXL%2F2XL%2F3XL%20-%20or%20Kids%20%2B%20age%29%3A%20%0AColor%3A%20%0A%0ASHIRT%202%20%28leave%20blank%20if%20not%20needed%29%0ADesign%20%23%3A%20%0AMen%20%2F%20Women%20%2F%20Boys%20%2F%20Girls%3A%20%0AStyle%3A%20%0ASize%3A%20%0AColor%3A%20%0A%0A%28need%20more%3F%20paste%20another%20SHIRT%20block%29%0A%0ADelivery%20%28pickup%20%2F%20drop-off%20%2F%20ship%20it%29%3A%20%0AIf%20shipping%20-%20your%20address%3A%20%0A%0APAYMENT%20-%20I%20prefer%20Venmo%20or%20Zelle%20%28Cash%20App%20if%20needed%29.%0APay%20with%20%28Venmo%20%2F%20Zelle%20%2F%20Cash%20App%29%3A%20%0AYour%20Venmo%20%2F%20Cash%20App%20name%20%28or%20Zelle%20email%2Fphone%29%3A%20%0A%0AYour%20name%3A%20%0ABest%20way%20to%20reach%20you%20%28phone%20%2F%20email%20%2F%20Instagram%29%3A%20">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
   <b>📩 &nbsp; CLICK HERE TO ORDER &nbsp; →</b>
   </a>
 </p>
 
-<p align="center"><sub>Opens a pre-filled order form right here on GitHub — just fill in the blanks. Ordering more than one? Copy the SHIRT block. You'll need a free GitHub account to send it.</sub></p>
+<p align="center"><sub>Opens a tap-the-menus order form right here on GitHub — design #, fit, style, size &amp; color are all menus. Up to 10 shirts. You'll need a free GitHub account to send it.</sub></p>
 
-When you order, fill in each shirt: **design # · men/women/boys/girls · style · size · color** (add as many shirts as you want), then **pickup / drop-off / ship**, how you'll pay, and **your name + best way to reach you.** I'll get it and reply.
+When you order, you **tap menus** for each shirt — design # · men/women/boys/girls · style · size · color — then pickup/drop-off/ship and how you'll pay. The only typing is your name, contact, payment name, and address. I'll get it in my email and reply.
 
 ---
 
