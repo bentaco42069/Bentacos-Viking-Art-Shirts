@@ -1,6 +1,6 @@
 # 🖼️ Full Gallery — Bentacö's
 
-Every design, numbered. See one you want? **[📩 Message me to order](https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?title=Shirt%20Order&labels=order&body=Design%20number%3A%0ASize%3A%0AColor%3A%0ACustomization%20if%20any%3A%0AHow%20to%20reach%20you%3A)** and tell me the **#**, your **size**, and **color**.
+Every design, numbered. See one you want? **[📩 Message me to order](https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml)** and tell me the **#**, your **size**, and **color**.
 
 **[← Back to the front page &amp; prices](README.md)**
 
