@@ -13,12 +13,12 @@ Browse the designs below, then <b>message me right here on GitHub to order.</b>
 <h2 align="center">🛒 Order a Shirt</h2>
 
 <p align="center">
-  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?template=shirt-order.yml">
+  <a href="https://bentacos-order-bentacos-ragnarok.vercel.app">
   <b>📩 &nbsp; CLICK HERE TO ORDER &nbsp; →</b>
   </a>
 </p>
 
-<p align="center"><sub>Opens a tap-to-order form — pick your design, size, style &amp; color from the menus. Ordering more than one? Fill in Shirt 2 and 3 right there. You'll need a free GitHub account to send it.</sub></p>
+<p align="center"><sub>Opens your tap-to-order form — pick design, fit, style, size &amp; color from the menus, and hit <b>➕ Add another shirt</b> as many times as you want. (A free GitHub account is only needed for the final "send" tap.)</sub></p>
 
 When you order, you just **tap the menus** — design # · who it's for (men / women / boys / girls) · style (tee / tank / crop) · size · color — for as many shirts as you want, then pick **pickup, drop-off, or shipping** and leave your **name + best way to reach you.** I'll take it from there.
 
