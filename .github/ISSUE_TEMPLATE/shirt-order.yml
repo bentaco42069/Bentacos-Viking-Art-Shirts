@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         ## ⚔️ Order Your Shirt(s) ⚔️
-        Just tap the menus below — no typing except your name & how to reach you (and your address only if you want it shipped).
+        Just tap the menus below — no typing except your name, contact & payment handle (and address only if you want it shipped).
         Ordering more than one? Fill in Shirt 2 and Shirt 3 too.
   - type: markdown
     attributes:
@@ -446,7 +446,7 @@ body:
       required: false
   - type: markdown
     attributes:
-      value: "### 📦 Delivery & Contact"
+      value: "### 📦 Delivery"
   - type: dropdown
     id: delivery
     attributes:
@@ -455,6 +455,29 @@ body:
         - "Local pickup"
         - "You drop it off to me (local)"
         - "Ship it to me"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ### 💵 Payment
+        I take **Venmo** and **Zelle** (preferred), or **Cash App** if I have to. Once I confirm your order and total, I'll send you a request so you can pay.
+  - type: dropdown
+    id: pay-method
+    attributes:
+      label: "How do you want to pay?"
+      options:
+        - "Venmo (preferred)"
+        - "Zelle (preferred)"
+        - "Cash App"
+    validations:
+      required: true
+  - type: input
+    id: pay-handle
+    attributes:
+      label: "Your Venmo / Cash App username (or the email/phone on your Zelle)"
+      description: "So I can send the charge straight to you"
+      placeholder: "@your-handle"
     validations:
       required: true
   - type: input
